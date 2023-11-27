@@ -1,5 +1,5 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
-
+![Screenrecorder-2023-11-27-23-11-25-68](https://github.com/pcatjee/navigationStructure/assets/39117349/3f198acf-d509-4893-b9eb-43ebb7904894)
 # Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
